@@ -1,0 +1,20 @@
+.img{
+    height: 400px;
+    width: auto;
+}
+a.sine {
+    padding: 20px;
+
+}
+.sin-box {
+    width: 100px;
+    margin: 50px auto;
+}
+
+h1 {
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+button.btn.btn-warning {
+    font-weight: 600;
+}
